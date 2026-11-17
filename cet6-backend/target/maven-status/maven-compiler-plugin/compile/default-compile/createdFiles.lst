@@ -1,0 +1,3 @@
+com\cet6\service\TranslateService.class
+com\cet6\entity\TranslateRecord.class
+com\cet6\mapper\TranslateRecordMapper.class
